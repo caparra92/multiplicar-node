@@ -6,7 +6,7 @@ Esta es una aplicaión para generar archivos txt de una tabla de multiplicar com
 
 Ejecutar el comando
 
-...
 
+```
 npm install
-....
+```
